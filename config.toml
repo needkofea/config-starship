@@ -39,9 +39,6 @@ truncation_length=-1
 [git_branch]
 style = "bold #E37BBC"
 
-[fill]
-symbol = '─'
-style = "white dimmed"
 
 [nodejs]
 style = "bold #3FE054"
